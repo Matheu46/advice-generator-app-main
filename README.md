@@ -34,4 +34,4 @@ Better understand how to use api's and create custom effects in Tailwind CSS (th
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Matheu46)
+- Frontend Mentor - [@matheu46](https://www.frontendmentor.io/profile/Matheu46)
