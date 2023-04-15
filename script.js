@@ -4,6 +4,8 @@ const advice = document.querySelector('h2');
 
 button.addEventListener('click', getAdvice);
 
+getAdvice();
+
 function getAdvice() {
   fetch('	https://api.adviceslip.com/advice')
     .then((response) => response.json())
